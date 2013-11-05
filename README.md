@@ -34,6 +34,16 @@ Web features
   * Backend and frontend
   * Invalidate frontend? How do we do this?
 
+### Frontend evolution at Yandex
+by Sergey Berezhnoy http://tech.yandex.ru/events/yac/2011/talks/33/
+
+A cluster for static files
+`img.yandex.net`
+Machines in the clusted are specially tuned for static files. Eternal cache.
+
+Eternal cache saves resources, but you face a problem with cache invalidation.
+
+
 ### TODO
 http://docs.fabfile.org/en/1.8/
 http://css-tricks.com/deployment/
