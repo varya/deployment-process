@@ -97,3 +97,4 @@ http://docs.fabfile.org/en/1.8/
 http://css-tricks.com/deployment/
 Study Jenkins http://jenkins-ci.org/
 https://github.com/capistrano/capistrano/wiki
+http://css-tricks.com/deployment/
